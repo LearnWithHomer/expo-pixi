@@ -58,7 +58,7 @@
     "fbemitter": "2.1.1",
     "path": "^0.12.7",
     "pixi-filters": "*",
-    "pixi-spine": "^1.5.11",
+    "pixi-spine": "git+https://github.com/LearnWithHomer/pixi-spine-rn.git",
     "pixi.js": "^4.7.0",
     "expo-asset-utils": "^1.1.0",
     "url": "^0.11.0"
